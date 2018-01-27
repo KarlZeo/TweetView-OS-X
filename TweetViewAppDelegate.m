@@ -38,7 +38,7 @@
 	paragraphStyle.paragraphSpacing = 0;
 	paragraphStyle.paragraphSpacingBefore = 0;
 	paragraphStyle.tighteningFactorForTruncation = 4;
-	paragraphStyle.alignment = NSNaturalTextAlignment;
+    paragraphStyle.alignment = NSTextAlignmentNatural;
 	paragraphStyle.lineBreakMode = NSLineBreakByWordWrapping;
 	
 	// Our initial set of attributes that are applied to the full string length
